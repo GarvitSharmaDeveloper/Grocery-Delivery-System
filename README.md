@@ -1,5 +1,5 @@
-# Deliver Dash
-Welcome to Deliver Dash, an E commerce web application to make your grocery shopping hassle-free and provide quick deliveries at your doorstep. Built using React.js, 
+# Grocery Delivery System
+This is an E commerce web application to make your grocery shopping hassle-free and provide quick deliveries at your doorstep. Built using React.js, 
 Node.js, Express.js and MongoDB, this single page application has been built keeping in mind the essential aspects from the point of view of not only the customer but 
 the entire spectrum of users ranging from retailers to delivery-executives.
 
