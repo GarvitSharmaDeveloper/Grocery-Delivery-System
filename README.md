@@ -8,15 +8,11 @@ the entire spectrum of users ranging from retailers to delivery-executives.
 * Sign Up as one of the 4 User Types - Customer, Retailer, Wholesaler or a Delivery person. 
 * Login as Customer, Retailer, Wholesaler or Delivery Person accordingly by choosing the corresponding tab from the panel on the right.
 
-![Landing Page](/res/signup.png)
-
 
 ### 2. Dashboard
 * Dashboard displays a list of products for all of the 6 available categories - Fruits, Veggies, Staples, Beverages, Meat and Snacks. Dashboard is available only to the Customers and Retailers. 
 * Selecting any product opens a window containing details of the product, including the details of the different retailers selling the same product and their corresponding locations on the map relative to the current user location. 
 * Add or Subtract quantities to and from the cart according to your needs.
-
-![Dashboard GIF](/res/Dashboard.gif) 
 
 
 ### 3. Cart 
@@ -26,29 +22,24 @@ the entire spectrum of users ranging from retailers to delivery-executives.
 * Order All button serves the purpose of placing the order and naturally, empties the cart. 
 * Offline Order button, on the other hand, serves the purpose of placing offline self-pick-up orders.
 
-![Cart](/res/cart.png)
-
 
 ### 4. Stock
 * Stock displays a list of products in stock and is available only to the Retailers and Wholesalers. 
 * Edit the quantities and prices of products available in your stock. 
 * Add an existing product with different details or add a new product with the necessary details.
 
-![Cart](/res/stock.png)
 
 ### 5. Orders 
 * Orders section displays all orders divided into 3 categories by status - Pending, In Transit and Delivered. Orders section is available only to the Retailers and the Wholesalers. 
 * For each order in the Pending Section, the Retailer/Wholesaler has the option to Dispatch the Order. 
 * The code assigns every order to a specific delivery associate according to the algorithm.
 
-![Cart](/res/orders.png)
 
 ### 6. Delivery
 * Deliveries Interface is available only to the Delivery Executive. 
 * Deliveries section displays all orders that have been assigned to the specific delivery associate and are yet to be delivered within End of Day.
 *  For every dispatched order, the Delivery person has the option to Accept the Order and Finish the Delivery on reaching their destination and completing the transaction.
 
-![Cart](/res/delivery.png)
 
 
 
@@ -57,7 +48,6 @@ the entire spectrum of users ranging from retailers to delivery-executives.
 ## Features and Functionalities
 
 ### 1. Map Services
-![Cart](/res/map.png)
 
 ### 2. Notification System
 A robust Notification System has been set-up to inform all users involved in the Delivery Cycle to receive a notification suitable to the status of the Order.
@@ -68,7 +58,7 @@ A robust Notification System has been set-up to inform all users involved in the
   4. Delivered. 
 These stages can be tracked using the Notification System. 
 * By clicking on any of the notification, the user gets to view the order details and the order status simultaneously in a separate window.
-![Cart](/res/notification.png)
+
 
 ### 3. Courier Allotment System
 ```javascript
@@ -109,25 +99,14 @@ for (let retailerId of retailerIds)
 ```
 
 ### 4. Search bar
-![Cart](/res/search.png)
 
 ### 5. OTP and Google Auth
-<img src="/res/otp.png" alt="OTP" width="500"/>
 
 ### 6. Offline Ordering System
-![Cart](/res/offline.png)
 
 ### 7. Chat Bot
-<img src="/res/chatbot.png" alt="Chat Bot" width="500"/>
 
 
 
 ## Order-Delivery Cycle
-  ![Cart](/res/ODC.gif)
-
-
-
-## Team Members:
-1. Sayantan Biswas
-2. Abhishek Kumar (https://github.com/AbhishekKumar102K)
-3. Rajat Khade (https://github.com/rajat-khade)
+  
