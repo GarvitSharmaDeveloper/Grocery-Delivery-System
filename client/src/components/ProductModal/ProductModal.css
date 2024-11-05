@@ -1,0 +1,42 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.productModal-container {
+    width: 1000px;
+    height:650px;
+    z-index: 2;
+    top: 70px;
+    background-color: #8abdd3ff;
+    border-radius: 10px;
+    position: fixed;
+    transition: 1s ease-in-out;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid #00000250;
+}
+.modal-content {
+    padding: 18% 5% 4%;
+}
+.view-cart-button {
+    cursor: pointer;
+    border: 0;
+    border-radius: 5px;
+    margin-top: auto;
+    margin: auto auto 4% auto;
+    width: 50%;
+    height: 4rem;
+    background-image: linear-gradient(to bottom, #222831, #393e46, #222831);
+    transition: 0.2s ease-in-out;
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: white;
+}
+
+.view-cart-button:hover {
+    opacity: 0.75;
+
+}
+th, td {
+    margin: 5px 5px;
+}
